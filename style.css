@@ -8,6 +8,10 @@ html {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body {
+  background-color: orangered;
+}
+
 header {
   background-image: linear-gradient(
       to right bottom,
